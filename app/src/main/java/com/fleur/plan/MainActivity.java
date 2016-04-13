@@ -16,6 +16,7 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+    //View  
     private Toolbar toolbar;
     private FloatingActionButton fab;
     private DrawerLayout drawer;
